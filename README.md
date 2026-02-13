@@ -13,4 +13,5 @@
 - step 6 : set startup code `bash /home/container/recovery/debian.sh`
 
 >NOTE
->his project does NOT change the kernel, does NOT increase RAM, and does NOT bypass host limits. It only creates a Debia environment inside an existing container.
+>
+>This project does NOT change the kernel, does NOT increase RAM, and does NOT bypass host limits. It only creates a Debia environment inside an existing container.
